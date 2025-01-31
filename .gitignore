@@ -1,9 +1,11 @@
-HELP.md
+# Build Directories
 target/
+build/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Ignore IDE-specific configurations
 ### STS ###
 .apt_generated
 .classpath
@@ -25,9 +27,14 @@ target/
 /dist/
 /nbdist/
 /.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
 
-### VS Code ###
+### Visual Studio Code ###
 .vscode/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# GitHub Linguist Overrides
+*.java linguist-detectable=true
+*.xml linguist-detectable=true
