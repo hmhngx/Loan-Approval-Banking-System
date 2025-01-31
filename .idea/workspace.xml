@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b173e0a6-1d73-4915-aa08-6f399ba15540" name="Changes" comment="code files uploaded" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hmhngx&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hmhngx/Loan-Approval-Banking-System.git&quot;,
+    &quot;accountId&quot;: &quot;117233d3-dfe6-4f7d-b5f6-26f048031bb1&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jRazXK78oOgKj3OnluGWhOWTBX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.BankingSystemApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/minhh/Downloads/internship",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.model.request" />
+      <recent name="com.example.demo.dispatcher" />
+      <recent name="com.example.demo.domain" />
+      <recent name="com.example.demo.model" />
+      <recent name="com.example.demo.repository" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BankingSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="admin-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.BankingSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b173e0a6-1d73-4915-aa08-6f399ba15540" name="Changes" comment="" />
+      <created>1721352607796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721352607796</updated>
+      <workItem from="1721352608019" duration="136000" />
+      <workItem from="1721352812997" duration="8440000" />
+      <workItem from="1721403011840" duration="3381000" />
+      <workItem from="1721474578704" duration="1007000" />
+      <workItem from="1721704225347" duration="2086000" />
+      <workItem from="1721751419236" duration="1867000" />
+      <workItem from="1721781912948" duration="10008000" />
+      <workItem from="1721815306122" duration="5427000" />
+      <workItem from="1721877314693" duration="3436000" />
+      <workItem from="1721898790399" duration="7336000" />
+      <workItem from="1722416268413" duration="6335000" />
+      <workItem from="1722479491990" duration="6000" />
+      <workItem from="1722569740067" duration="635000" />
+      <workItem from="1722591858042" duration="5963000" />
+      <workItem from="1722930405394" duration="9182000" />
+      <workItem from="1723021685021" duration="2052000" />
+      <workItem from="1723024064950" duration="5527000" />
+      <workItem from="1723103359747" duration="10214000" />
+      <workItem from="1723519720104" duration="7255000" />
+      <workItem from="1723540490564" duration="6172000" />
+      <workItem from="1723627155290" duration="7346000" />
+      <workItem from="1723713107085" duration="7249000" />
+      <workItem from="1723798459606" duration="1397000" />
+      <workItem from="1723799967407" duration="4521000" />
+      <workItem from="1723805489356" duration="227000" />
+      <workItem from="1723956894614" duration="4000" />
+      <workItem from="1724056805699" duration="8120000" />
+      <workItem from="1724143902925" duration="1349000" />
+      <workItem from="1724148229485" duration="1074000" />
+      <workItem from="1724228850035" duration="9401000" />
+      <workItem from="1724253320075" duration="2596000" />
+      <workItem from="1724317828002" duration="8018000" />
+      <workItem from="1724347032522" duration="2235000" />
+      <workItem from="1724383890887" duration="3756000" />
+      <workItem from="1724387771860" duration="855000" />
+      <workItem from="1724404996892" duration="8442000" />
+      <workItem from="1724661788460" duration="1058000" />
+      <workItem from="1724669573796" duration="2107000" />
+      <workItem from="1724682183012" duration="915000" />
+      <workItem from="1724747834774" duration="10386000" />
+      <workItem from="1724765590921" duration="945000" />
+      <workItem from="1724834015846" duration="9040000" />
+      <workItem from="1724859079933" duration="1425000" />
+      <workItem from="1725283803251" duration="306000" />
+      <workItem from="1725462748493" duration="116000" />
+      <workItem from="1725850218131" duration="359000" />
+      <workItem from="1725991787140" duration="1000" />
+      <workItem from="1726621293241" duration="814000" />
+      <workItem from="1726708037178" duration="3000" />
+      <workItem from="1727118300505" duration="113000" />
+      <workItem from="1727295178983" duration="160000" />
+      <workItem from="1727305873108" duration="796000" />
+      <workItem from="1727758084660" duration="83000" />
+      <workItem from="1727760159889" duration="186000" />
+      <workItem from="1727967973292" duration="62000" />
+      <workItem from="1728271350773" duration="4000" />
+      <workItem from="1728622781582" duration="592000" />
+      <workItem from="1730754501981" duration="57000" />
+      <workItem from="1735253948487" duration="10000" />
+      <workItem from="1736611269496" duration="93000" />
+      <workItem from="1736911327345" duration="21000" />
+      <workItem from="1737225293217" duration="9000" />
+      <workItem from="1738180716759" duration="77000" />
+      <workItem from="1738187063064" duration="919000" />
+      <workItem from="1738188363106" duration="676000" />
+      <workItem from="1738189568998" duration="1258000" />
+      <workItem from="1738190847357" duration="91000" />
+      <workItem from="1738191215137" duration="17000" />
+    </task>
+    <task id="LOCAL-00001" summary="code files uploaded">
+      <option name="closed" value="true" />
+      <created>1738189706366</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738189706366</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code files uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="code files uploaded" />
+  </component>
+</project>
